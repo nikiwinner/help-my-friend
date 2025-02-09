@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Help My Friend Fix His Toyota Camry</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #4CAF50;
+        }
+        .donate-button {
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .donate-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Help My Friend Fix His Broken Toyota Camry</h1>
+    </header>
+
+    <section>
+        <h2>The Story</h2>
+        <p>Hey everyone! I need your help. My friend recently bought a used Toyota Camry, but unfortunately, it turned out to be a bit of a lemon. The car has some serious mechanical issues, and it's going to take a lot of money to fix it. We're trying to raise funds to cover the repair costs so that my friend can get the car back on the road.</p>
+        <p>The Camry is a great car, and with your help, we can bring it back to life. Every donation counts, no matter how small. Your support means the world to us, and we're grateful for any help you can provide.</p>
+    </section>
+
+    <section>
+        <h2>How You Can Help</h2>
+        <p>If you want to contribute to the repair costs, you can make a donation through the PayPal link below. It's quick, easy, and secure. Any amount is appreciated!</p>
+        <a href="https://www.paypal.com/donate?hosted_button_id=YOUR_BUTTON_ID" class="donate-button">Donate Now</a>
+    </section>
+
+    <footer>
+        <p style="text-align: center; padding: 10px; background-color: #333; color: white;">Thank you for your generosity!</p>
+    </footer>
+</body>
+</html>
